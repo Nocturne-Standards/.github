@@ -1,0 +1,3 @@
+check-audit-sha.sh: org profile has no audit documents; kit script text is not public-safe (reviewed 2026-10-08)
+
+check-bls-insecure.sh: org profile has no BLS call sites; kit allowlist text is not public-safe (reviewed 2026-10-08)
